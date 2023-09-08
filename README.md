@@ -1,6 +1,6 @@
 # celebrare_assignment
 
-A new Flutter project.
+A Flutter project for uploading images from gallery <br> with image aspects editing
 
 ## Getting Started
 
